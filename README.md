@@ -17,11 +17,7 @@ FrontEnd Single Page Application made in react vite using html, css, bootstrap. 
 --------------------------------------------------------------------------------------
 
 
-![HomePage](https://github.com/Almir-git-unifc/single-page-application_portfolio/blob/main/img1.png)
-
-![Perfil-1](https://github.com/Almir-git-unifc/single-page-application_portfolio/blob/main/img2.png)
-
-![Perfil-2](https://github.com/Almir-git-unifc/single-page-application_portfolio/blob/main/img3.png)
+![HomePage](https://github.com/Almir-git-unifc/single-page-application_portfolio/blob/main/img1uni.png)
 
 
 --------------------------------------------------------------------------------------
