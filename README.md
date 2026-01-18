@@ -40,13 +40,15 @@ FrontEnd Single Page Application made in react vite using html, css, bootstrap. 
 This project was developed on video on YouTube, previously, in Portifolio and Profile, by 'Danilo-jesus' and 'professor Miltin' respectively with the titles
 "How to create a portfolio with HTML and CSS for beginners" and "Using CSS - Creating a PROFILE page with just HTML and CSS. Selectors and Effects in CSS"
 
-However, during my development the main change is that I created the project in react-vite. And for this, instead of the index.html and style.css files I used the app.js and app.css files; I changed the background image; I used icons from react-icons; and I linked this page in a SPA.
+However, during development, the main change was creating the project in react-vite, a build tool that ensures a fast development environment and a final package optimized for production.
+To achieve this, instead of index.html and style.css files, I used app.js and app.css files; changed the background image; used icons from react-icons; and navigation between pages is managed by <strong>React Router</strong>, offering a fluid Single Page Application (SPA) experience..
 
 
 
 # Feature <a name = "Feature"></a>
-- Simple Page Application
-- Responsive layout
+- Simple Page Application Navigation: Use of `Routes` and `Links` for page switching without reloading.
+- Responsive Design: Adaptable interface for mobile and desktop devices using the Bootstrap grid system.
+- Componentization: Code organized into reusable components.
 
 
 &nbsp;
@@ -54,13 +56,15 @@ However, during my development the main change is that I created the project in 
 
 In youtube's video this project was developed with Html, CSS.
 
-However, during my development the main change is that I created the project in VITE, used components, and linked each component page to a SPA.
+However, during my development the main change is that I created the project in VITE, used components, and linked each component page to a SPA, and I used the following technologies:
 
 # Built With 
 ![React](https://img.shields.io/badge/react-%23FA7343.svg?style=for-the-badge&logo=react&logoColor=%23000080)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
  
