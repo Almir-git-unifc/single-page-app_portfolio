@@ -1,6 +1,6 @@
 Single-Page-Application_portfolio
 ======================================
-FrontEnd Single Page Application made in react vite using html, css, bootstrap. If you like: give me a star 🌟
+FrontEnd Single Page Application made in react vite using html, css, bootstrap.
 
 ---------------------------------------------------------------------------------------------------------
 
@@ -37,6 +37,8 @@ FrontEnd Single Page Application made in react vite using html, css, bootstrap. 
 
 # Intro <a name = "Intro"></a>
 
+This repository contains an interactive personal portfolio, developed with React and focused on simple and responsive navigation.
+
 This project was developed on video on YouTube, previously, in Portifolio and Profile, by 'Danilo-jesus' and 'professor Miltin' respectively with the titles
 "How to create a portfolio with HTML and CSS for beginners" and "Using CSS - Creating a PROFILE page with just HTML and CSS. Selectors and Effects in CSS"
 
@@ -46,9 +48,14 @@ To achieve this, instead of index.html and style.css files, I used app.js and ap
 
 
 # Feature <a name = "Feature"></a>
-- Simple Page Application Navigation: Use of `Routes` and `Links` for page switching without reloading.
-- Responsive Design: Adaptable interface for mobile and desktop devices using the Bootstrap grid system.
-- Componentization: Code organized into reusable components.
+- SPA with:
+- 🚀 Project visualization and personal information
+- 🌐 Navigation between pages using `Routes` and `Links` to switch between pages without reloading.
+- 📱 Responsive layout: for mobile devices and desktops
+- 🎨 Styling with CSS, Bootstrap and media queries
+- 🖥️ Implementation of dynamic pages using React and React Router
+- ♻️ Componentization: Code organized into reusable components.
+- ⚡️ Optimized performance using Vite as a bundler
 
 
 &nbsp;
@@ -56,7 +63,12 @@ To achieve this, instead of index.html and style.css files, I used app.js and ap
 
 In youtube's video this project was developed with Html, CSS.
 
-However, during my development the main change is that I created the project in VITE, used components, and linked each component page to a SPA, and I used the following technologies:
+However, during development, the main change was that I created the project in VITE, used components, and linked each component page to a SPA (Single Page Application), using the following technologies and libraries:
+- React: JavaScript library for building interfaces
+- React Route (`BrowserRouter`, `Route`, `Routes`, `Link`): Page navigation and routes
+- Bootstrap: Framework for responsive design and ready-made components
+- CSS: Custom styling with media queries
+- Vite: Bundler and high-performance development server
 
 # Built With 
 ![React](https://img.shields.io/badge/react-%23FA7343.svg?style=for-the-badge&logo=react&logoColor=%23000080)
@@ -94,15 +106,28 @@ From your command line:
 
 
 &nbsp;
-## Run locally the app
+## Install dependecies
 ### $ `cd folder-name-project (vite-project)`
 ### $ `npm install`
+
+## Start the development server:
 ### $ `npm run dev`
-#### $ `use the Local link provided by VITE to access the server`
+#### $ `use the Local link provided by VITE to access the server in navigator and to view the portfolio.`
 
 
 #### $ `Copy content project, was download of this Github repository, inside folder vite-project created before`
 
+
+🎨 Customization
+The layout is fully responsive and adapts to different screen sizes.
+Use the project's folder structure to add new pages or modify the existing structure.
+To change the style, edit the .css files and use Bootstrap to customize the components.
+
+
+🚀 Deployment
+This portfolio can be easily hosted on platforms such as Netlify, Vercel, or GitHub Pages.
+
+Consult the platform documentation for deployment instructions.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
